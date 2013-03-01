@@ -1,6 +1,13 @@
 # Git and GitHub
 Learn how to better use Git and GitHub™
 
+**Note** GitHub specifically marks in its [Terms of Service](https://help.github.com/articles/github-terms-of-service):
+
+> You must be 13 years or older to use this Service.
+
+Take that in mind when teaching or reading this lesson. If you are following along with this
+and are underage, please consult an adult for assistance.
+
 ## Sub-Lessons
 
   * [Lesson 1](https://github.com/CoderDojoSF/git-and-github/blob/master/lesson1)
